@@ -101,3 +101,32 @@ footer {
   background: #020617;
   margin-top: 40px;
 }
+.skills {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.skills-list {
+  margin-top: 20px;
+}
+
+.skills-list span {
+  display: inline-block;
+  background: #1e293b;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 6px;
+}
+
+.about-links {
+  margin-top: 20px;
+}
+
+.about-links a {
+  margin: 5px;
+}
+
+.contact {
+  text-align: center;
+  padding: 60px 20px;
+}
